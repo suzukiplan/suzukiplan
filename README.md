@@ -32,3 +32,9 @@ SUZUKI PLAN is a common name for Yoji Suzuki (individual) to carry out doujin ac
 - [Qiita: 要件定義入門（原題: Firebase Hosting + GitHub で音楽配信システムを作ってみた）](https://qiita.com/suzukiplan/items/8ba8f135da8a7749fb0a)
 - [Qiita: ほぼ最強の8bitゲーム機「ゲームギア」プログラミング入門](https://qiita.com/suzukiplan/items/4388874cacef18873db2)
 
+## Stats
+
+![suzukiplan's GitHub stats](https://github-readme-stats.vercel.app/api?username=suzukiplan&count_private=true&show_icons=true&theme=dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=suzukiplan&theme=onedark)](https://github.com/suzukiplan/github-profile-trophy)
+
