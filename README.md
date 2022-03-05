@@ -15,9 +15,9 @@ SUZUKI PLAN is a common name for Yoji Suzuki (individual) to carry out doujin ac
 
 - [VGS BGM Decoder](https://github.com/suzukiplan/vgs-bgm-decoder)
 - [VGS MML Compiler](https://github.com/suzukiplan/vgs-mml-compiler)
-- [東方BGM on VGS for コマンドライン](./tohovgs-cli/)
-- [東方BGM on VGS version 4 for Android](./tohovgs4-android/)
-- [東方BGM on VGS version 4 for iOS](./tohovgs4-ios/)
+- [東方BGM on VGS for コマンドライン](https://github.com/suzukiplan/tohovgs-cli)
+- [東方BGM on VGS version 4 for Android](https://github.com/suzukiplan/tohovgs4-android)
+- [東方BGM on VGS version 4 for iOS](https://github.com/suzukiplan/tohovgs4-ios)
 
 ### Emulators
 
