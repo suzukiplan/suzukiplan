@@ -24,7 +24,7 @@ SUZUKI PLAN is a common name for Yoji Suzuki (individual) to carry out doujin ac
 - [SUZUKI PLAN - Z80 Emulator](https://github.com/suzukiplan/z80)
 - [Z80 Console](https://github.com/suzukiplan/z80-console)
 - [FAIRY COMPUTER SYSTEM 80](https://github.com/suzukiplan/fcs80)
-- [Micro MSX2+](https://github.com/suzukiplan/micro-msx2p)
+- [micro MSX2+](https://github.com/suzukiplan/micro-msx2p)
 
 ### MSX Tools
 
