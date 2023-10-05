@@ -1,5 +1,7 @@
 # Welcome to SUZUKI PLAN
 
+![top.jpg](top.jpg)
+
 SUZUKI PLAN is a common name for Yoji Suzuki (individual) to carry out doujin activities, and is not a corporation.
 
 ## Apps
@@ -13,11 +15,13 @@ SUZUKI PLAN is a common name for Yoji Suzuki (individual) to carry out doujin ac
 
 ### VGS
 
+- [Video Game System SDK - Pico](https://github.com/suzukiplan/vgssdk-pico)
 - [VGS BGM Decoder](https://github.com/suzukiplan/vgs-bgm-decoder)
 - [VGS MML Compiler](https://github.com/suzukiplan/vgs-mml-compiler)
 - [東方BGM on VGS for コマンドライン](https://github.com/suzukiplan/tohovgs-cli)
 - [東方BGM on VGS version 4 for Android](https://github.com/suzukiplan/tohovgs4-android)
 - [東方BGM on VGS version 4 for iOS](https://github.com/suzukiplan/tohovgs4-ios)
+- [東方BGM on VGS version 5 for RP2040](https://github.com/suzukiplan/tohovgs-pico) (東方VGS実機版)
 
 ### Emulators
 
