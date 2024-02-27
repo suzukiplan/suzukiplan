@@ -6,6 +6,12 @@ SUZUKI PLAN is a common name for Yoji Suzuki (individual) to carry out doujin ac
 
 ## Apps
 
+### Battle Marine (Steam for Windows/Linux/macOS)
+
+![bmarine.png](bmarine.png)
+
+[https://store.steampowered.com/app/2824990/Battle_Marine/](https://store.steampowered.com/app/2824990/Battle_Marine/)
+
 ### 東方BGM on VGS (iOS)
 
 ![QR(iOS)](tohovgs-ios.png)
@@ -49,6 +55,7 @@ SUZUKI PLAN is a common name for Yoji Suzuki (individual) to carry out doujin ac
 - [Qiita: MSXのアプリ開発環境を構築する方法（macOS向け）](https://qiita.com/suzukiplan/items/b369d3f9b41be55b247e)
 - [Qiita: 要件定義入門（原題: Firebase Hosting + GitHub で音楽配信システムを作ってみた）](https://qiita.com/suzukiplan/items/8ba8f135da8a7749fb0a)
 - [Qiita: ほぼ最強の8bitゲーム機「ゲームギア」プログラミング入門](https://qiita.com/suzukiplan/items/4388874cacef18873db2)
+- [Qiita: Z80+C言語で16ビット機級の本格的なゲームが創れるゲーム機（VGS-Zero）を作ってみた](https://qiita.com/suzukiplan/items/8a740b593816ef9ef565)
 
 ## Stats
 
