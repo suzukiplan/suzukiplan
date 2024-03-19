@@ -61,5 +61,7 @@ SUZUKI PLAN is a common name for Yoji Suzuki (individual) to carry out doujin ac
 
 ![suzukiplan's GitHub stats](https://github-readme-stats.vercel.app/api?username=suzukiplan&count_private=true&show_icons=true&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=suzukiplan&theme=onedark)](https://github.com/suzukiplan/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzukiplan)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=suzukiplan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
