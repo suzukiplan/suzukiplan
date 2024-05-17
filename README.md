@@ -57,6 +57,10 @@ SUZUKI PLAN is a common name for Yoji Suzuki (individual) to carry out doujin ac
 - [Qiita: ほぼ最強の8bitゲーム機「ゲームギア」プログラミング入門](https://qiita.com/suzukiplan/items/4388874cacef18873db2)
 - [Qiita: Z80+C言語で16ビット機級の本格的なゲームが創れるゲーム機（VGS-Zero）を作ってみた](https://qiita.com/suzukiplan/items/8a740b593816ef9ef565)
 
+## Articles
+
+- [東方BGM on VGS (Appliv)](https://app-liv.jp/849916/)
+
 ## Stats
 
 ![suzukiplan's GitHub stats](https://github-readme-stats.vercel.app/api?username=suzukiplan&count_private=true&show_icons=true&theme=dark)
