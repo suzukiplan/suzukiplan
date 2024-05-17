@@ -60,6 +60,7 @@ SUZUKI PLAN is a common name for Yoji Suzuki (individual) to carry out doujin ac
 ## Articles
 
 - [東方BGM on VGS (Appliv)](https://app-liv.jp/849916/)
+- [Battle Marine (Bangers in the Bezel)](https://steamcommunity.com/groups/bezelbangers/curation/app/2824990/)
 
 ## Stats
 
