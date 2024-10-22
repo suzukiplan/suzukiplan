@@ -29,6 +29,7 @@ SUZUKI PLAN is a common name for Yoji Suzuki (individual) to carry out doujin ac
 ### VGS
 
 - [Video Game System - Zero](https://github.com/suzukiplan/vgszero)
+- [Z80 Assembler for VGS-Zero](https://github.com/suzukiplan/vgsasm)
 - [Video Game System SDK - Pico](https://github.com/suzukiplan/vgssdk-pico)
 - [VGS BGM Decoder](https://github.com/suzukiplan/vgs-bgm-decoder)
 - [VGS MML Compiler](https://github.com/suzukiplan/vgs-mml-compiler)
