@@ -12,6 +12,12 @@ SUZUKI PLAN is a common name for Yoji Suzuki (individual) to carry out doujin ac
 
 [https://store.steampowered.com/app/2824990/Battle_Marine/](https://store.steampowered.com/app/2824990/Battle_Marine/)
 
+### Battle AirForce (Steam for Windows/Linux/macOS)
+
+![baf.png](baf.png)
+
+[https://store.steampowered.com/app/3476490/Battle_AirForce/](https://store.steampowered.com/app/3476490/Battle_AirForce/)
+
 ### 東方BGM on VGS (iOS)
 
 ![QR(iOS)](tohovgs-ios.png)
