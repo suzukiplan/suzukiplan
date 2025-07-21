@@ -30,6 +30,12 @@ SUZUKI PLAN is a common name for Yoji Suzuki (individual) to carry out doujin ac
 
 [https://play.google.com/store/apps/details?id=com.suzukiplan.TOHOVGS](https://play.google.com/store/apps/details?id=com.suzukiplan.TOHOVGS)
 
+### 東方BGM on SCC (Android)
+
+![QR(Android)](tohoscc-android.png)
+
+[https://play.google.com/store/apps/details?id=com.suzukiplan.tohoscc](https://play.google.com/store/apps/details?id=com.suzukiplan.tohoscc)
+
 ## Major Repositories
 
 ### VGS
